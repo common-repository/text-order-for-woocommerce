@@ -1,0 +1,27 @@
+=== Text order for Woocommerce ===
+Contribuyentes: Zurine Martin
+Enlace donaciones: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ENWQTLS22XZ6N&source=url
+Etiquetas: woocommerce,change order,text,products,seo,improve seo,improve positioning,order
+Probado para: 4.9.8
+Licencia: GPLv2 o superior
+Licencia URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Plugin para cambiar el orden en que aparecen los productos y el texto, en las categorías y en la página principal.
+
+== Descripción ==
+Cuando el complemento se activa en un sitio web que utiliza woocommerce, intercambia las posiciones de los productos, arriba, y el texto de la página, a continuación.
+Esto se hace tanto con la página principal como con las páginas de categoría.
+El cambio se realiza automáticamente una vez que se activa el complemento.
+
+== Instalación ==
+1. Suba los archivos del complemento al directorio `/ wp-content / plugins / plugin-name`, o instale el complemento a través de la pantalla de los complementos de WordPress directamente.
+2. Active el complemento a través de la pantalla 'Plugins' en WordPress y listo
+
+
+== Preguntas frecuentes ==
+¿Tienes que configurar algo?
+  Nada en absoluto, lo hace automáticamente.
+
+
+== Capturas de pantalla ==
+En la carpeta 'asset' hay una captura de pantalla, que muestra cómo están los productos arriba y el texto a continuación.
